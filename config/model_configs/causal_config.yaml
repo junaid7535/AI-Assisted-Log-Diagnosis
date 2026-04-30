@@ -1,0 +1,7 @@
+rules:
+  - name: database_failure
+    keywords: [database, db, sql, connection, timeout]
+  - name: memory_pressure
+    keywords: [memory, oom, heap, allocation]
+  - name: network_issue
+    keywords: [network, dns, socket, refused, unreachable]

@@ -1,0 +1,2 @@
+model: isolation_forest
+contamination: 0.12

@@ -1,0 +1,17 @@
+app:
+  name: ai-log-rca-system
+  debug: true
+
+parser:
+  default_format: generic
+
+anomaly:
+  contamination: 0.12
+  random_state: 42
+
+clustering:
+  eps: 0.45
+  min_samples: 2
+
+rca:
+  top_k_events: 10
