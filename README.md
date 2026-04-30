@@ -1,6 +1,6 @@
 # AI-Assisted Log Diagnosis & Root-Cause Detection
 
-A GSoC-ready starter project for automated log parsing, anomaly detection, clustering, and root-cause analysis reports.
+AI-Assisted Log Diagnosis for automated log parsing, anomaly detection, clustering, and root-cause analysis reports.
 
 ## Features
 
