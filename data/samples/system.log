@@ -1,0 +1,7 @@
+2026-04-30 10:00:01 INFO api - service started version=1.2.0
+2026-04-30 10:01:03 INFO api - received request GET /health
+2026-04-30 10:02:11 WARN api - slow response detected latency=1200ms
+2026-04-30 10:03:45 ERROR api - database connection timeout host=db-primary
+2026-04-30 10:03:46 ERROR worker - failed to write job result database connection refused
+2026-04-30 10:03:50 CRITICAL api - request failure rate exceeded threshold
+2026-04-30 10:04:02 INFO api - retrying database connection
