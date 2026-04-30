@@ -56,4 +56,3 @@ src/llm            Optional report generator
 src/api            FastAPI app
 src/evaluation     Metrics and dataset evaluation
 ```
-# AI-Assisted-Log-Diagnosis
